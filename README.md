@@ -1,0 +1,6 @@
+# worship
+practice in creating a landing page on bootstrap, practice media queries
+
+
+практика лендинга, делал с какой то статьи не помню откуда...
+за пару часов...
